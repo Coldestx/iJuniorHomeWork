@@ -1,0 +1,14 @@
+C:\Users\Coldest\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\Coldest\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\Coldest\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\Coldest\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.AssemblyReference.cache
+C:\Users\Coldest\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\Coldest\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\Coldest\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
+C:\Users\Coldest\Desktop\задания на проверку\Задача №7 Магазин\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\Coldest\Desktop\задания на проверку\Задача №7 Магазин\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\Coldest\Desktop\задания на проверку\Задача №7 Магазин\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\Coldest\Desktop\задания на проверку\Задача №7 Магазин\HomeWork3\obj\Debug\HomeWork3.csproj.AssemblyReference.cache
+C:\Users\Coldest\Desktop\задания на проверку\Задача №7 Магазин\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\Coldest\Desktop\задания на проверку\Задача №7 Магазин\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\Coldest\Desktop\задания на проверку\Задача №7 Магазин\HomeWork3\obj\Debug\HomeWork3.pdb
