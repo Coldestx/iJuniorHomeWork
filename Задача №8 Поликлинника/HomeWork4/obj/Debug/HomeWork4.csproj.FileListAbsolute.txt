@@ -1,0 +1,14 @@
+C:\Users\Coldest\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\Coldest\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\Coldest\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\Coldest\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+C:\Users\Coldest\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\Coldest\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\Coldest\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.pdb
+C:\Users\Coldest\Desktop\задания на проверку\Задача №8 Поликлинника\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\Coldest\Desktop\задания на проверку\Задача №8 Поликлинника\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\Coldest\Desktop\задания на проверку\Задача №8 Поликлинника\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\Coldest\Desktop\задания на проверку\Задача №8 Поликлинника\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+C:\Users\Coldest\Desktop\задания на проверку\Задача №8 Поликлинника\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\Coldest\Desktop\задания на проверку\Задача №8 Поликлинника\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\Coldest\Desktop\задания на проверку\Задача №8 Поликлинника\HomeWork4\obj\Debug\HomeWork4.pdb
